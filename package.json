@@ -1,0 +1,28 @@
+{
+  "name": "yalgaar NodeJS SDK",
+  "version": "1.0.1",
+  "description": "Real-time publish and Subscribe Messages with Yalgaar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "messaging",
+    "cloud-messaging",
+    "realtime-mesaging",
+    "websocket",
+    "real-time",
+    "realtime",
+    "publish",
+    "subscribe"
+  ],
+  "author": {
+    "name": "Yalgaar",
+    "email": "yalgaar@slscorp.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "socket.io-client": "^1.4.8"
+  }
+}
