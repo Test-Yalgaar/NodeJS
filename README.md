@@ -1,4 +1,4 @@
-# Yalgaar NodeJS SDK (1.0.1)
+# Yalgaar NodeJS SDK
 Create amazing realtime applications easily with Yalgaar Nodejs
 
 #### NPM Install
